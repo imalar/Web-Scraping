@@ -1,0 +1,1 @@
+java -jar "C:\Users\imane\OneDrive - UQAM\Documents\NetBeansProjects\WebScraping2\dist\WebScraping2.jar" "https://www.scrapingbee.com/blog/introduction-to-web-scraping-with-java/"
